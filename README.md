@@ -87,8 +87,8 @@
 <h3 title="hehehe">Some fancy statistics !</h3>
 <p>
 <div>
-<img height=350 width=450 src="https://github-readme-stats.vercel.app/api?username=bhupesh22&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Bhupesh's GitHub Stats">
-<img height=350 width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=bhupesh22&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Bhupesh Patil" />
+<img height=250 width=450 src="https://github-readme-stats.vercel.app/api?username=bhupesh22&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Bhupesh's GitHub Stats">
+<img height=250 width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=bhupesh22&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Bhupesh Patil" />
 
 </div>
 </p>
