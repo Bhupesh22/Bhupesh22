@@ -1,6 +1,6 @@
 
 
-<h2 title="hehehe"> Hey 👋, I'm Bhupesh!</h2>
+<h1 title="hehehe"> Hey 👋, I'm Bhupesh!</h1>
 
 <a href="https://www.linkedin.com/in/bhupesh-patil-neu/">
   <img align="left" alt="Bhupesh's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
@@ -14,16 +14,14 @@
 <br />
 <br />
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-
-
+<img alt="Coder GIF" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <h3 title="hehehe">About Me</h3>
 
-- 👨🏽‍💻 I'm a pursuing MS in Computer Science student from Northeastern University in Boston
+- 👨🏽‍💻 I'm pursuing MS in Computer Science student from Northeastern University in Boston
 - 🌱 I’m currently exploring AWS services & Developing serverless application. 
 - 💬 Ask me about software development & cloud technologies, I would love to discuss!
-- 📫 Email me at [patil.bhu@northeastern.edu](mailto:patil.bhu@northeastern.edu).
+- 📫 Email me at [patil.bhu@northeastern.edu](mailto:patil.bhu@northeastern.edu)
 
 
 <h3 title="hehehe">Programming Languages</h3>
