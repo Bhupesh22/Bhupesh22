@@ -17,7 +17,7 @@
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw">
 
 
-**About Me!**
+<h3 title="hehehe">About Me</h3>
 
 - 👨🏽‍💻 I'm a pursuing MS in Computer Science student from Northeastern University in Boston
 - 🌱 I’m currently exploring AWS services & Developing serverless application. 
@@ -25,7 +25,7 @@
 - 📫 Email me at [patil.bhu@northeastern.edu](mailto:patil.bhu@northeastern.edu).
 
 
-**Programming Languages**
+<h3 title="hehehe">Programming Languages</h3>
 <p>
 <div>
   <img src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=for-the-badge" alt="Java badge">
@@ -36,7 +36,7 @@
 </div>
 </p>
 
-**Databases**
+<h3 title="hehehe">Databases</h3>
 <p>
 <div>
   <img src="https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL badge"> 
@@ -45,7 +45,7 @@
 </div>
 </p>
 
-**Frameworks**
+<h3 title="hehehe">Frameworks</h3>
 <p>
 <div>
   <img src="https://img.shields.io/badge/-Spring%20MVC-green?logo=spring&logoColor=white&style=for-the-badge" alt="Spring MVC badge">
@@ -54,7 +54,8 @@
 </div>
 </p>
 
-**Cloud Technologies**
+
+<h3 title="hehehe">Cloud Technologies</h3>
 <p>
 <div>
   <img src="https://img.shields.io/badge/-AWS%20S3-orange?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS S3 badge">
@@ -63,8 +64,7 @@
 </div>
 </p>
 
-
-**Web Technologies**
+<h3 title="hehehe">Web Technologies</h3>
 <p>
 <div>
   <img src="https://img.shields.io/badge/-React-blue?logo=react&logoColor=white&style=for-the-badge" alt="React badge">
@@ -75,8 +75,7 @@
 </div>
 </p>
 
-
-**Version Control**
+<h3 title="hehehe">Version Control</h3>
 <p>
 <div>
   <img src="https://img.shields.io/badge/-Git-black?logo=git&logoColor=white&style=for-the-badge" alt="Git badge">
@@ -86,8 +85,7 @@
 </div>
 </p>
 
-
-**Some fancy statistics !**
+<h3 title="hehehe">Some fancy statistics !</h3>
 <p>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=bhupesh22&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&icon_color=fad000" alt="Bhupesh's GitHub Stats">
