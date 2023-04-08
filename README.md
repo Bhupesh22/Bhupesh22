@@ -17,7 +17,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I'm a computer science graduate student at Northeastern University in Boston
+- 👨🏽‍💻 I'm a pursuing MS in Computer Science student from Northeastern University in Boston
 - 🌱 I’m currently exploring AWS services & Developing serverless application. 
 - 💬 Ask me about software development & cloud technologies, I would love to discuss!
 - 📫 Email me at [patil.bhu@northeastern.edu](mailto:patil.bhu@northeastern.edu).
