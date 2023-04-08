@@ -1,6 +1,6 @@
 
 
-<h1 title="hehehe"><img src="https://en.bloggif.com/tmp/8ad70e83daca73e6681096a8f1f77a02/text.gif?1680917880"></h1>
+<h1 title="hehehe">Hello, I'm Bhupesh Patil</h1>
 
 <a href="https://www.linkedin.com/in/bhupesh-patil-neu/">
   <img align="left" alt="Bhupesh's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
