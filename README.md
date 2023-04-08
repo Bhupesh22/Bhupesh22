@@ -14,7 +14,7 @@
 <br />
 <br />
 
-<img alt="Coder GIF" height=250 width=350 src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img alt="Coder GIF" height=250 width=450 src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <h3 title="hehehe">About Me</h3>
 
