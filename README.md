@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/-Spring%20MVC-green?logo=spring&logoColor=white&style=for-the-badge" alt="Spring MVC badge">
   <img src="https://img.shields.io/badge/-Spring%20Boot-green?logo=spring&logoColor=white&style=for-the-badge" alt="Spring Boot badge">
   <img src="https://img.shields.io/badge/-.NET%20Web%20API-purple?logo=.net&logoColor=white&style=for-the-badge" alt=".NET Web API badge">
+  <img src="https://img.shields.io/badge/-MuleSoft-ED1C24?logo=mulesoft&logoColor=white&style=for-the-badge" alt="MuleSoft badge">
 </div>
 </p>
 
@@ -58,6 +59,7 @@
 <p>
 <div>
   <img src="https://img.shields.io/badge/-AWS%20S3-orange?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS S3 badge">
+  <img src="https://img.shields.io/badge/-AWS_Lambda-orange?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS Lambda badge">
   <img src="https://img.shields.io/badge/-AWS%20EC2-orange?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS EC2 badge">
   <img src="https://img.shields.io/badge/-AWS%20CloudFront-orange?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS CloudFront badge">
 </div>
@@ -81,6 +83,7 @@
   <img src="https://img.shields.io/badge/-GitHub-grey?logo=github&logoColor=white&style=for-the-badge" alt="GitHub badge">
   <img src="https://img.shields.io/badge/-UCD-blue?logo=ibm&logoColor=white&style=for-the-badge" alt="UCD badge">
   <img src="https://img.shields.io/badge/-Jenkins-red?logo=jenkins&logoColor=white&style=for-the-badge" alt="Jenkins badge">
+  <img src="https://img.shields.io/badge/-GitHub_Actions-black?logo=github-actions&logoColor=white&style=for-the-badge" alt="GitHub Actions badge">
 </div>
 </p>
 
