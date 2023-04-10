@@ -2,18 +2,6 @@
 
 <h1 title="hehehe"> Hello :wave: I'm Bhupesh Patil </h1>
 
-<a href="https://www.linkedin.com/in/bhupesh-patil-neu/">
-  <img align="left" alt="Bhupesh's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
-</a>
-<a href="https://www.instagram.com/bhupesh_patil_/">
-  <img align="left" alt="Bhupesh's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
-</a>
-<a href="https://bhupesh-patil.web.app/">
-  <img align="left" alt="Bhupesh's Portfolio" width="24px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/web-design.png" />
-</a>
-<br />
-<br />
-
 <img alt="Coder GIF" height=350 width=400 src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952y6cxyemshuphg63ed39jh5blhrdcitxkapks3jkr&rid=200w.gif&ct=g"/>
 
 <h3 title="hehehe">About Me</h3>
@@ -95,4 +83,18 @@
 </div>
 </p>
 
+
+
+<h3>Connect me at</h3>
+<a href="https://www.linkedin.com/in/bhupesh-patil-neu/">
+  <img align="left" alt="Bhupesh's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+</a>
+<a href="https://www.instagram.com/bhupesh_patil_/">
+  <img align="left" alt="Bhupesh's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+</a>
+<a href="https://bhupesh-patil.web.app/">
+  <img align="left" alt="Bhupesh's Portfolio" width="24px" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/web-design.png" />
+</a>
+<br />
+<br />
 
